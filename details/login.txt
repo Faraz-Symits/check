@@ -1,0 +1,7 @@
+Site Title: The Check Site
+Site Description: This Site has been crafted to take HACKING Seriously!
+Site Admin Username: admin
+Site Admin User Password: q%3N&pfpg1vx2LyPDI
+Site Database: check
+Site Database Prefix: wp_check_
+Site Email Address: frazahashmi.symits@gmai.com
