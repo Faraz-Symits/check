@@ -5,3 +5,6 @@ Site Admin User Password: q%3N&pfpg1vx2LyPDI
 Site Database: check
 Site Database Prefix: wp_check_
 Site Email Address: frazahashmi.symits@gmai.com
+
+Wordpress Backup: (https://wordpress.org/support/article/wordpress-backups/)
+
